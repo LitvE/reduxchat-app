@@ -1,0 +1,11 @@
+.chatContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    border: 10px solid white;
+    color: white;
+    width: 400px;
+    height: 600px;
+}
